@@ -1,0 +1,6 @@
+sounddevice numpy
+pipwin
+pyaudio
+opencv-python
+pyserial
+python-dotenv
